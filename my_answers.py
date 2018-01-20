@@ -13,7 +13,9 @@ def window_transform_series(series, window_size):
     X = []
     y = []
     for i in range(len(series)-window_size):
+        # From i to i+window_size (excluded) input characters
         X.append(series[i:i+window_size])
+        # result in i+window_size output character
         y.append(series[i+window_size])
 
     # reshape each 
