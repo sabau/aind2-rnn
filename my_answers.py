@@ -56,9 +56,11 @@ def window_transform_text(text, window_size, step_size):
 # a single LSTM hidden layer with softmax activation, categorical_crossentropy loss 
 def build_part2_RNN(window_size, num_chars):
     model = Sequential()
-    # I've seen improvements in the generated text after adding some regularization and dropout,
-    # but I hadn't had the time to explore further
-    model.add(LSTM(200, input_shape=(window_size, num_chars), dropout=0.1))
+    # I've seen only worse perfornmances after adding some regularization and dropout,
+    # but I hadn't had the time to explore the issue deeper
+    model.add(LSTM(200, input_shape=(window_size, num_chars), dropout=0.0))
+    # adding dropout and/or regularizer made the overall loss higher
+    # 3, kernel_regularizer=L1L2(l1=0.1, l2=0.1)
     model.add(Dense(num_chars))
     model.add(Activation("softmax"))
     return model

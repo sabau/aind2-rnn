@@ -1,0 +1,25 @@
+-------------------
+input chars = 
+dventure i. a scandal in bohemia i. to sherlock holmes she is always the woman. i have seldom heard "
+predicted chars = 
+the contured which he had been down the bell of the latter and the conular pressing a shart really h"
+-------------------
+input chars = 
+i. a scandal in bohemia i. to sherlock holmes she is always the woman. i have seldom heard him menti"
+predicted chars = 
+ng of the contingar man, and the conure of the bellow of the bed heard the coroner which he had been"
+-------------------
+input chars = 
+ him mention her under any other name. in his eyes she eclipses and predominates the whole of her se"
+predicted chars = 
+e had been down the contrally which he had been do the read to the corther which i have alled the co"
+-------------------
+input chars = 
+more disturbing than a strong emotion in a nature such as his. and yet there was but one woman to hi"
+predicted chars = 
+s hands. which was as a man an the contrally and the beding the strange of the same of the right of "
+-------------------
+input chars = 
+ order to remove crusted mud from it. hence, you see, my double deduction that you had been out in v"
+predicted chars = 
+istanter and the groond and see hat a condinur and a condinge of the bed heard the corner which he h"

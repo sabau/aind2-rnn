@@ -1,0 +1,25 @@
+-------------------
+input chars = 
+dventure i. a scandal in bohemia i. to sherlock holmes she is always the woman. i have seldom heard "
+predicted chars = 
+the ploopess in his chair and dowed, and what did not been that not his word when i down the bed of "
+-------------------
+input chars = 
+i. a scandal in bohemia i. to sherlock holmes she is always the woman. i have seldom heard him menti"
+predicted chars = 
+on was stanted in the late of his sopperant to his way a fear and came to be an and of the wentweres"
+-------------------
+input chars = 
+ him mention her under any other name. in his eyes she eclipses and predominates the whole of her se"
+predicted chars = 
+cone of his are to the came of the waits of the case of the case of the case of the crient, when i c"
+-------------------
+input chars = 
+more disturbing than a strong emotion in a nature such as his. and yet there was but one woman to hi"
+predicted chars = 
+m the pase of a grown to using the street. i ded and the latter of the state of the daig, and he had"
+-------------------
+input chars = 
+ order to remove crusted mud from it. hence, you see, my double deduction that you had been out in v"
+predicted chars = 
+ist centiceevely to and door and the that she had conted to the lade of the day with his execleet. i"
